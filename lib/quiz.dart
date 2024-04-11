@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:quiz/start_screen.dart';
 import 'package:quiz/questions_screen.dart';
-import 'package:quiz/data/questions.dart';
+import 'package:quiz/models/questions.dart';
 import 'package:quiz/results_screen.dart';
 
 class Quiz extends StatefulWidget {
